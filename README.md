@@ -6,8 +6,8 @@ Our Metrocar project dives deep into understanding and improving the user experi
 # What We Did
 - Funnel Analysis
 
-Users Analysis: We tracked the user journey from downloading the app to requesting rides. The good news? Users are finding value quickly, but there's a significant drop-off when it comes to completing rides.
-Rides Analysis: We looked closely at how rides are accepted and completed. While 90% of accepted rides go smoothly, 35.6% of ride requests never get accepted, highlighting a need for better driver availability and matching.
+- - Users Analysis: We tracked the user journey from downloading the app to requesting rides. The good news? Users are finding value quickly, but there's a significant drop-off when it comes to completing rides.
+- - Rides Analysis: We looked closely at how rides are accepted and completed. While 90% of accepted rides go smoothly, 35.6% of ride requests never get accepted, highlighting a need for better driver availability and matching.
 Understanding Our Users
 
 - Waiting Times and Cancellations: We found that longer waiting times lead to more canceled rides, especially during peak hours like morning and evening commutes.
