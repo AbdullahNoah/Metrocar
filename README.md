@@ -3,10 +3,10 @@
 Metrocar Project Overview
 Our Metrocar project dives deep into understanding and improving the user experience and operational efficiency of our ride-hailing app. Through meticulous analysis, we've identified key areas for enhancement and developed targeted strategies to address them. This project showcased our team's problem-solving abilities, analytical skills, and dedication to presenting clear results, all while working cooperatively and managing our time efficiently.
 
-What We Did
+# What We Did
 Funnel Analysis
 
-Users Analysis: We tracked the user journey from downloading the app to requesting rides. The good news? Users are finding value quickly, but there's a significant drop-off when it comes to completing rides.
+-- Users Analysis: We tracked the user journey from downloading the app to requesting rides. The good news? Users are finding value quickly, but there's a significant drop-off when it comes to completing rides.
 Rides Analysis: We looked closely at how rides are accepted and completed. While 90% of accepted rides go smoothly, 35.6% of ride requests never get accepted, highlighting a need for better driver availability and matching.
 Understanding Our Users
 
@@ -27,7 +27,8 @@ Presenting Results: Clearly communicated findings and recommendations through we
 Teamwork and Cooperation: Collaborated effectively across our team, leveraging each member's strengths.
 Time Management: Managed our time efficiently to ensure timely completion of the project milestones.
 Cohesive Structure Building: Ensured all aspects of the project were interconnected and aligned towards the common goal.
-Our Action Plan
+
+# Our Action Plan
 Tackling Rush Hour Challenges
 
 Increase the number of available drivers and improve our matching algorithms to handle peak times better.
@@ -44,7 +45,8 @@ Boosting Customer Support
 
 Strengthen our customer support to resolve user issues quickly and efficiently.
 Improve fleet maintenance to ensure clean and reliable vehicles, enhancing overall user satisfaction.
-Conclusion
+
+# Conclusion
 The Metrocar project has given us a clear picture of where we excel and where we need to improve. By implementing these targeted strategies, we aim to boost user satisfaction, ensure reliable service, and maintain operational efficiency. We're committed to making Metrocar a better experience for everyone, every ride. Our skills in problem-solving, analysis, presenting results, teamwork, time management, and building cohesive structures have been crucial to our success in this project.
 
 https://colab.research.google.com/drive/1pHjcejDwpwrF4Qa_xzRbzUohwNj-Xru3?usp=sharing
